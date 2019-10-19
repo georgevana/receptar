@@ -1,0 +1,8 @@
+Chleba s maslem
+
+1) vezmi chleba
+2) vezmi maslo
+3) vezmi nuz
+4) naber maslo nozem a natri chleba
+
+Dobrou chut!
