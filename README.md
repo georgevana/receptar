@@ -1,1 +1,1 @@
-# receptar
+# receptar prima napadu
